@@ -1,6 +1,6 @@
 #include "Farmer.h"
 #include <string>
-#include "Farmer.h"
+
 
 using namespace std;
 
