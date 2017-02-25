@@ -3,6 +3,10 @@
 
 using namespace std;
 
+Animals::Animals()
+{
+	_name = "none";
+}
 Animals::Animals(string name, string species) : _name(name), _species(species)
 {
 }

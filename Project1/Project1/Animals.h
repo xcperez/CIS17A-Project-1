@@ -7,6 +7,7 @@ private:
 	std::string _species;
 	std::string _name;
 public:
+	Animals();
 	Animals(std::string name, std::string species);
 	~Animals();
 

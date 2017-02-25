@@ -5,6 +5,7 @@ class Crops
 private:
 	std::string _name;
 public:
+	Crops();
 	Crops(std::string name);
 	~Crops();
 

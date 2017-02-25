@@ -146,6 +146,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animals.cpp" />
+    <ClCompile Include="Crops.cpp" />
+    <ClCompile Include="Farm.cpp" />
+    <ClCompile Include="Farmer.cpp" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animals.h" />
+    <ClInclude Include="Crops.h" />
+    <ClInclude Include="Farm.h" />
+    <ClInclude Include="Farmer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
